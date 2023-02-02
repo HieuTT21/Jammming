@@ -1,0 +1,13 @@
+.ListItem {
+    padding: 1rem 0;
+    transition: 100ms ease-in-out;
+}
+
+.ListItem:hover {
+    background-color: rgba(108, 65, 233, .3);
+    cursor: pointer;
+}
+
+.ListItem p {
+    margin: 0 .88rem;
+}
